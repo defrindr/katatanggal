@@ -1,6 +1,11 @@
 # Kata Tanggal
 Kata tanggal adalah sebuah library untuk mengubah tanggal kedalam sebuh teks bahasa Indonesia.
 
+## How to install
+```
+composer require defrindr/katatanggal
+```
+
 ## Example
 ```
 require_once __DIR__ .'/../vendor/autoload.php';
