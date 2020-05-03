@@ -1,5 +1,5 @@
 {
-    "name": "defrindr/kata-tanggal",
+    "name": "defrindr/katatanggal",
     "description": "simple converter date to string readeble indonesia",
     "type":"library",
     "license": "MIT",
