@@ -16,7 +16,7 @@ $tanggal = new katatanggal("19-05-2002");
 echo $tanggal->get();
 
 // Output :
-// Hari Minggu, Tanggal Sembilan Belas Bulan Lima  Tahun Dua Ribu Dua
+// Hari Minggu, Tanggal Sembilan Belas Bulan Lima Tahun Dua Ribu Dua
 
 ```
 
