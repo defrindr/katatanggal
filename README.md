@@ -1,5 +1,5 @@
 # Kata Tanggal
-Kata tanggal adalah sebuah library untuk mengubah tanggal kedalam sebuh teks bahasa Indonesia.
+*Kata tanggal* adalah sebuah library untuk mengubah tanggal kedalam sebuah teks bahasa Indonesia.
 
 ## How to install
 ```shell
