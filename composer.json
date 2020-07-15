@@ -14,5 +14,7 @@
             "defrindr\\": "src/defrindr/"
         }
     },
-    "require": {}
+    "require": {
+        "phpunit/phpunit": "^9.2"
+    }
 }
