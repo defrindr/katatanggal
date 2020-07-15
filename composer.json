@@ -1,6 +1,6 @@
 {
     "name": "defrindr/katatanggal",
-    "description": "Kata tanggal adalah sebuah library untuk mengubah tanggal kedalam sebuh teks bahasa Indonesia.",
+    "description": "Kata tanggal adalah sebuah library untuk mengubah tanggal kedalam sebuah teks bahasa Indonesia.",
     "type":"library",
     "license": "MIT",
     "authors": [
